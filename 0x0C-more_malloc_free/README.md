@@ -1,0 +1,2 @@
+#!/bin/bash
+MORE INFO ON MEMORY ALLOCATION
